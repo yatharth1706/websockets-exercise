@@ -1,0 +1,30 @@
+.input {
+  min-width: 180px;
+  height: 30px;
+  border: 1px solid gray;
+  border-radius: 2px;
+}
+
+.button {
+  height: 34px;
+  width: auto;
+  border-radius: 2px;
+}
+
+.primary {
+  color: black;
+  background-color: skyblue;
+  border: 1px solid blue;
+}
+
+.row {
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
